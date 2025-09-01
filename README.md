@@ -6,4 +6,4 @@ i do programming, mostly in typescript and c#
 
 ~~ignore the weird ordering of repos on my profile i went through and stripped my old email from all of them~~
 
-pfp source is [https://konachan.net/post/show/389804](https://www.pixiv.net/en/artworks/93821313)
+pfp source is https://www.pixiv.net/en/artworks/93821313
